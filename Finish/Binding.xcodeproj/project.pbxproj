@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		04A9EC8D2849E49A0009EE29 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A9EC8C2849E49A0009EE29 /* AppDelegate.swift */; };
-		04A9EC8F2849E49A0009EE29 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A9EC8E2849E49A0009EE29 /* SceneDelegate.swift */; };
 		04A9EC912849E49A0009EE29 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A9EC902849E49A0009EE29 /* ViewController.swift */; };
 		04A9EC942849E49A0009EE29 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04A9EC922849E49A0009EE29 /* Main.storyboard */; };
 		04A9EC962849E4AC0009EE29 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04A9EC952849E4AC0009EE29 /* Assets.xcassets */; };
@@ -21,7 +20,6 @@
 /* Begin PBXFileReference section */
 		04A9EC892849E49A0009EE29 /* Binding.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Binding.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04A9EC8C2849E49A0009EE29 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		04A9EC8E2849E49A0009EE29 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		04A9EC902849E49A0009EE29 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		04A9EC932849E49A0009EE29 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		04A9EC952849E4AC0009EE29 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -63,7 +61,6 @@
 			isa = PBXGroup;
 			children = (
 				04A9EC8C2849E49A0009EE29 /* AppDelegate.swift */,
-				04A9EC8E2849E49A0009EE29 /* SceneDelegate.swift */,
 				04A9ECA4284DC72A0009EE29 /* Quote.swift */,
 				04A9EC902849E49A0009EE29 /* ViewController.swift */,
 				04A9ECA02849E8A80009EE29 /* Observable.swift */,
@@ -150,7 +147,6 @@
 				04A9EC912849E49A0009EE29 /* ViewController.swift in Sources */,
 				04A9EC8D2849E49A0009EE29 /* AppDelegate.swift in Sources */,
 				04A9ECA3284DC6DA0009EE29 /* APIManager.swift in Sources */,
-				04A9EC8F2849E49A0009EE29 /* SceneDelegate.swift in Sources */,
 				04A9ECA5284DC72A0009EE29 /* Quote.swift in Sources */,
 				04A9ECA12849E8A80009EE29 /* Observable.swift in Sources */,
 			);
